@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+  <title>我的个人笔记网站</title>
+  <style>
+  body { font-family: Arial; max-width: 800px; margin: 20px auto; padding: 0 20px; }
+ h1 { color: #2c3e50; }
+   .note-list { margin-top: 20px; }
+  .note-item { margin: 10px 0; padding: 10px; border: 1px solid #eee; border-radius: 5px; }
+a { color: #3498db; text-decoration: none; }
+ a:hover { text-decoration: underline; }
+ </style>
+</head>
+<body>
+<h1>欢迎来到我的笔记网站 📒</h1>
+ <div class="note-list">
+ <div class="note-item">
+ <a href="my-first-note.html">我的第一篇笔记</a>
+</div>
+</body>
+</html>
